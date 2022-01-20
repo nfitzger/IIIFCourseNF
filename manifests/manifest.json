@@ -1,0 +1,178 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fairy Music",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://598b9910-307e-48d8-afcd-08da085a1849",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://523db6f8-30f6-493b-9c1a-7cd0907ce5cc",
+      "@type" : "sc:Canvas",
+      "label" : "Dog",
+      "height" : 4275,
+      "width" : 4941,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4a73947a-a41f-4659-8e4b-4c3462f151df",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.collections.yale.edu/iiif/2/ycba:9e08d901-a26b-4acb-a768-28f90a062adf/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.collections.yale.edu/iiif/2/ycba:9e08d901-a26b-4acb-a768-28f90a062adf",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4275,
+          "width" : 4941
+        },
+        "on" : "http://523db6f8-30f6-493b-9c1a-7cd0907ce5cc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://932aa5d4-3a73-4c54-84b4-ca6d3241dfd7",
+      "@type" : "sc:Canvas",
+      "label" : "Man and Woman",
+      "height" : 2642,
+      "width" : 1748,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://74d9f867-8e45-4566-85ee-a4d214842af8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005DFC8.0x0000AC/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005DFC8.0x0000AC",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2642,
+          "width" : 1748
+        },
+        "on" : "http://932aa5d4-3a73-4c54-84b4-ca6d3241dfd7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1cddecbb-9dfe-4853-8939-7214a4eb54a3",
+      "@type" : "sc:Canvas",
+      "label" : "Horseshoe",
+      "height" : 8510,
+      "width" : 6070,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0d414a5d-b1f1-4549-bb7c-e3edae50a7ad",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/51384094-f81a-4ad7-9f48-7158ff7e469c/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/51384094-f81a-4ad7-9f48-7158ff7e469c",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 4000,
+              "maxHeight" : 4000
+            } ]
+          },
+          "height" : 8510,
+          "width" : 6070
+        },
+        "on" : "http://1cddecbb-9dfe-4853-8939-7214a4eb54a3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f0fc6fa3-891f-4ef8-a169-780dcdaba383",
+      "@type" : "sc:Canvas",
+      "label" : "Fairy Music",
+      "height" : 8470,
+      "width" : 6120,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ac578a0e-1aef-46ce-a5c0-8ecb7b357a12",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/49375423-5225-4f44-b66b-b3fbb931a2be/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/49375423-5225-4f44-b66b-b3fbb931a2be",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 4000,
+              "maxHeight" : 4000
+            } ]
+          },
+          "height" : 8470,
+          "width" : 6120
+        },
+        "on" : "http://f0fc6fa3-891f-4ef8-a169-780dcdaba383"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ca3c5f93-ce48-4709-9185-232743bcd5ef",
+      "@type" : "sc:Canvas",
+      "label" : "Fairy Music Duplicate",
+      "height" : 8470,
+      "width" : 6120,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ac578a0e-1aef-46ce-a5c0-8ecb7b357a12",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/49375423-5225-4f44-b66b-b3fbb931a2be/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/49375423-5225-4f44-b66b-b3fbb931a2be",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 4000,
+              "maxHeight" : 4000
+            } ]
+          },
+          "height" : 8470,
+          "width" : 6120
+        },
+        "on" : "http://f0fc6fa3-891f-4ef8-a169-780dcdaba383"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
