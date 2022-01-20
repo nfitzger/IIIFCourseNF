@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://nfitzger.github.io/IIIFCourseNF/annotations/annotations.json" ],
+  "@id" : "https://nfitzger.github.io/IIIFCourseNF/annotations/collection.json",
+  "label" : "All annotations loaded in nfitzger/IIIFCourseNF project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
