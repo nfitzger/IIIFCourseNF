@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/manifest.criminals.json",
     "label" : "Cardiganshire Constabulary register of criminals"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/manifest.json",
+    "label" : "Fairy Music"
   } ]
 }
