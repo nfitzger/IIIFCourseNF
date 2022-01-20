@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://nfitzger.github.io/IIIFCourseNF/annotations/annotations.json" ],
+  "otherContent" : [ "https://nfitzger.github.io/IIIFCourseNF/annotations/annotations.json", "https://nfitzger.github.io/IIIFCourseNF/annotations/5081ca8817e793cd1ebb4feaa89910e1.json" ],
   "@id" : "https://nfitzger.github.io/IIIFCourseNF/annotations/collection.json",
   "label" : "All annotations loaded in nfitzger/IIIFCourseNF project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
