@@ -1,0 +1,13 @@
+{
+  "id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in nfitzger/IIIFCourseNF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/manifest.criminals.json",
+    "label" : "Cardiganshire Constabulary register of criminals"
+  } ]
+}
