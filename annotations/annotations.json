@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "William Broome, Cardiff, Chimney Sweep.\nSentenced to 14 days",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>William Broome, Cardiff, Chimney Sweep.</p>\n<p>Sentenced to 14 days</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/15985766",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T13:10:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642684259971",
+    "dcterms:modified" : "2022-01-20T13:12:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=73,2060,1183,1489"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M72.72527,2060.41758h591.32967v0h591.32967v744.51648v744.51648h-591.32967h-591.32967v-744.51648z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_96fe2e5c-5592-47d0-a3e2-316a012c130d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.41758\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389771.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Benjamin Davies, Brewer Street,&nbsp;<span style=\"color: #222222; font-family: DDG_ProximaNova, DDG_ProximaNova_UI_0, DDG_ProximaNova_UI_1, DDG_ProximaNova_UI_2, DDG_ProximaNova_UI_3, DDG_ProximaNova_UI_4, DDG_ProximaNova_UI_5, DDG_ProximaNova_UI_6, 'Proxima Nova', 'Helvetica Neue', Helvetica, 'Segoe UI', 'Nimbus Sans L', 'Liberation Sans', 'Open Sans', FreeSans, Arial, sans-serif; font-size: 24.048px; font-weight: 600;\">Aberystwyth",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Benjamin Davies, Brewer Street,&nbsp;<span style=\"color: #222222; font-family: DDG_ProximaNova, DDG_ProximaNova_UI_0, DDG_ProximaNova_UI_1, DDG_ProximaNova_UI_2, DDG_ProximaNova_UI_3, DDG_ProximaNova_UI_4, DDG_ProximaNova_UI_5, DDG_ProximaNova_UI_6, 'Proxima Nova', 'Helvetica Neue', Helvetica, 'Segoe UI', 'Nimbus Sans L', 'Liberation Sans', 'Open Sans', FreeSans, Arial, sans-serif; font-size: 24.048px; font-weight: 600;\">Aberystwyth</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/15985766",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T13:10:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642684218012",
+    "dcterms:modified" : "2022-01-20T13:14:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=54,256,1190,1586"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M54.04396,255.8022h595.06593v0h595.06593v793.08791v793.08791h-595.06593h-595.06593v-793.08791z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_7117f386-31ca-473e-bffd-5293c55d603a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.41758\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389771.json"
+    } ]
+  } ],
+  "@id" : "https://nfitzger.github.io/IIIFCourseNF/annotations/annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
