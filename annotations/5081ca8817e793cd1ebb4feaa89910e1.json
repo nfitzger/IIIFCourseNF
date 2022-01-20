@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Benjamin Davies, Brewer Street,&nbsp;<span style=\"color: #222222; font-family: DDG_ProximaNova, DDG_ProximaNova_UI_0, DDG_ProximaNova_UI_1, DDG_ProximaNova_UI_2, DDG_ProximaNova_UI_3, DDG_ProximaNova_UI_4, DDG_ProximaNova_UI_5, DDG_ProximaNova_UI_6, 'Proxima Nova', 'Helvetica Neue', Helvetica, 'Segoe UI', 'Nimbus Sans L', 'Liberation Sans', 'Open Sans', FreeSans, Arial, sans-serif; font-size: 14.4px;\">Aberystwyth",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Benjamin Davies, Brewer Street,&nbsp;<span style=\"color: #222222; font-family: DDG_ProximaNova, DDG_ProximaNova_UI_0, DDG_ProximaNova_UI_1, DDG_ProximaNova_UI_2, DDG_ProximaNova_UI_3, DDG_ProximaNova_UI_4, DDG_ProximaNova_UI_5, DDG_ProximaNova_UI_6, 'Proxima Nova', 'Helvetica Neue', Helvetica, 'Segoe UI', 'Nimbus Sans L', 'Liberation Sans', 'Open Sans', FreeSans, Arial, sans-serif; font-size: 14.4px;\">Aberystwyth</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/15985766",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T16:59:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642697991456",
+    "dcterms:modified" : "2022-01-20T16:59:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=46,246,1179,1602"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M45.94872,246.46154h589.46154v0h589.46154v800.87179v800.87179h-589.46154h-589.46154v-800.87179z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_90d44e1e-eae7-45e5-92d3-614c823ea13a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389771.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "William Groome, Cardiff, Chimney Sweep",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>William Groome, Cardiff, Chimney Sweep</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/15985766",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T17:00:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642698026886",
+    "dcterms:modified" : "2022-01-20T17:00:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=72,2055,1157,1480"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M72.10256,2055.4359h578.5641v0h578.5641v739.84615v739.84615h-578.5641h-578.5641v-739.84615z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_15bed7ec-c48e-4f57-b842-18e09a572c10\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389771.json"
+    } ]
+  } ],
+  "@id" : "https://nfitzger.github.io/IIIFCourseNF/annotations/5081ca8817e793cd1ebb4feaa89910e1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
