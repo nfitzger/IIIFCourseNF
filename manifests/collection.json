@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/manifest.json",
     "label" : "Fairy Music"
+  }, {
+    "@type" : "sc:Collection",
+    "@id" : "https://nfitzger.github.io/IIIFCourseNF/manifests/manifest.collection.json",
+    "label" : "Top Level Collection for Example Organization"
   } ]
 }
